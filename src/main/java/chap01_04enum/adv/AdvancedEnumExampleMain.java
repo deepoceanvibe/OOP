@@ -1,5 +1,6 @@
 package chap01_04enum.adv;
 
+
 public class AdvancedEnumExampleMain {
     public static void main(String[] args) {
             CalculateCommand calculateCommand = new CalculateCommand(

@@ -1,5 +1,6 @@
 package chap01_04enum.adv;
 
+
 public class Client {
     public int someMethod(CalculateCommand calculateCommand){
         CalculateType calculateType = calculateCommand.getCalculateType();
